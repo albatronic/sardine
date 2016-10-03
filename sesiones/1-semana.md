@@ -18,12 +18,15 @@ trabajar en el mismo.
 * Usar los métodos de entrega de ejercicios propuestos para la asignatura [usando GitHub](../ejercicios/README.md). 
 * Manejar de forma básica la línea de órdenes de Linux.
 * Aprender a instalar software libre en Linux.
-* Entregar el fichero de objetivos y los primeros ejercicios usando GitHub. 
+* Entregar el fichero de objetivos y los primeros ejercicios usando
+  GitHub.
+* Conocer dónde se pueden obtener recursos cloud gratuitos para usar
+  en la asignatura. 
 
 ## Contenidos 
 
-* Presentación de los profesores y los recursos de la asignatura: [web](http://jj.github.io/CC) y [Twitter `@iv_gii`](http://twitter.com/iv_gii).
-* [Visión general de la asignatura](http://unicms-testing.terragiro.es/mo_ing_informatica/pages/info_academica/guias/201415/1semestre/cloud-computing-fundamentos-e-infraestructuras/!).
+* Presentación del profesor y los recursos de la asignatura: [web](http://jj.github.io/CC) y [Twitter `@iv_gii`](http://twitter.com/iv_gii).
+* [Visión general de la asignatura](http://masteres.ugr.es/ing-informatica/pages/info_academica/guias/guiasdocentes).
 * Metodología docente: [Clase inversa](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), incluyendo eliminación de la distinción teoría/prácticas y consecuencias que trae.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * [Tutorías y diferentes métodos para plantear y resolver dudas](/issues).
