@@ -18,7 +18,7 @@ Recuerda que tienes que mantener tu copia actualizada con el
 repositorio original. Para ello, define un repositorio *upstream* de
 esta forma
 
-	git remote add upstream git@github.com:pmmre/CC16-17.git
+	git remote add upstream git@github.com:JJ/CC16-17.git
 
 y antes de ponerte a trabajar con tu *fork* local del repositorio
 recuerda hacer
