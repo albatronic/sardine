@@ -29,5 +29,5 @@
 
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
-- [] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
