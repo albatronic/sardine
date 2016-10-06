@@ -11,12 +11,12 @@
 7. [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 ### Otros objetivos
-- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
+- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 - [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub. 
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. [Enlace](https://aws.amazon.com/es/education/awseducate/)
 
 
 
