@@ -1,3 +1,65 @@
+PHPDocumentor.xml
+apidocs
+vendor/*
+composer.lock
+
+config/config.yml
+config/configProd.yml
+robots.txt
+db/*.sql
+# db/*.zip
+tmp/*
+!tmp/.gitkeep
+log/*
+!log/.gitkeep
+lib/error_log
+error_log
+docs/docs1/export/*
+docs/docs1/log/*
+
+# -- Editores -----------------------------------------
+# vim
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# phpstorm
+.idea/
+
+# sublimetext
+/*.sublime-project
+*.sublime-workspace
+
+# netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# -- Sistemas Operativos ------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.*
+!.gitignore
+!.htaccess
 *~
 
-*node_modules*
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+
