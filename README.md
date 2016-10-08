@@ -1,4 +1,3 @@
-# sardine
 Framework Sardine MVC Php
 
 It Implements an abstract access data layer
