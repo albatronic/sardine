@@ -1,4 +1,4 @@
-Objetivos a cubrir en la primera semana
+##  Objetivos a cubrir en la primera semana
 
 [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 [x] Darse de alta y comprendeObjetivos a cubrir en la primera semanar el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
@@ -9,7 +9,7 @@ Vernos las caras.
 [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 
-Otros objetivos
+## Otros objetivos
 
 [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
 [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub.
